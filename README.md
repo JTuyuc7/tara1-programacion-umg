@@ -1,4 +1,4 @@
-# tara1-programacion-umg
+# tarea1-programacion-2-umg
 Imprimir datos en consola del estudiante en consola.
 
 ## Imagenes
